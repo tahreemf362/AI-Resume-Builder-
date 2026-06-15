@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Builder & Career Coach",
+  "description": "An interactive, highly optimized ATS-friendly resume builder and AI career coach that analyzes resumes against job descriptions, improves bullet point grammar and impact, and provides high-fidelity ATS print templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
